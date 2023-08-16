@@ -1,6 +1,8 @@
+My name is Earnest Abrom and I undertook this project as a way to learn more about Kubernetes and also to display my skillset of setting up Kubernetes from scratch.  I took me 2 days to complete  this and I am currently working on transforming this project to use Terraform for Iac and Ansible for configuration of the Master and Worker nodes.  I'll be updating this project weekly.  
+
 # About
 
-This is a fork of awesome [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) by Kelsey Hightower and is geared towards using it on AWS. Also thanks to [@slawekzachcial](https://github.com/slawekzachcial) for his [work](https://github.com/slawekzachcial/kubernetes-the-hard-way-aws) that made this easier.
+This is a fork of awesome [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) by Kelsey Hightower and is geared towards using it on AWS. Also thanks to [@slawekzachcial](https://github.com/slawekzachcial) for his [work](https://github.com/slawekzachcial/kubernetes-the-hard-way-aws) that made this easier.  
 
 There are currently no tool upgrades as compared to the original.
 
